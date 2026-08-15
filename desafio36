@@ -26,3 +26,4 @@ while True:
     except ValueError:
         print('\033[31mValor incorreto\033[m')
 # 1 anos == 12 meses, a prestação não pode passa 30% * salario == error.
+print('Aperte ENTER para finalizar')
